@@ -1,1 +1,16 @@
-- [ ] 铁砧落地时执行 `function #anvilcraft:anvil2ground`
+# 计划
+- [x] 数据包第一次加载时执行 `#anvilcraft:config`
+- [ ] 铁砧落地时执行 `#anvilcraft:anvil`
+    - [ ] 当下方为炼药锅时，执行 `#anvilcraft:anvil/compress`
+    - [ ] 当下方为含水炼药锅时，执行 `#anvilcraft:anvil/puffing` 并扣除炼药锅内的一层水
+    - [ ] 当下方第二格处为炼药锅时，执行 `#anvilcraft:anvil/press`
+    - [ ] 当下方为活板门时，执行 `#anvilcraft:anvil/cutting`
+    - [ ] 当下方为锻造台时，执行 `#anvilcraft:anvil/decompose`
+    - [ ] 当下方为朝上的活塞时，执行 `#anvilcraft:anvil/rolling`
+    - [ ] 当下方为细雪炼药锅时，执行 `#anvilcraft:anvil/crystallization` 并扣除炼药锅内的一层细雪
+    - [ ] 当下方为两个方块时，执行 `#anvilcraft:anvil/compaction`
+    - [ ] 当下方为一个方块时，执行 `#anvilcraft:anvil/smash`
+    - [ ] 当下方为砂轮时，执行 `#anvilcraft:anvil/dispel`
+    - [ ] 当下方为切石机时，执行 `#anvilcraft:anvil/destroy`
+    - [ ] 当下方为投掷器时，执行 `#anvilcraft:anvil/dropper`
+    - [ ] 当下方为发射器时，执行 `#anvilcraft:anvil/dispenser`
