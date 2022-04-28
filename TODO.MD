@@ -1,0 +1,1 @@
+- [ ] 铁砧落地时执行 `function #anvilcraft:anvil2ground`
