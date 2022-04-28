@@ -1,0 +1,29 @@
+{
+    "parent": "minecraft:block/barrel",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 11140001
+            },
+            "model": "anvilcraft:item/magnet_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140021
+            },
+            "model": "anvilcraft:item/craft_machine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140022
+            },
+            "model": "anvilcraft:item/interact_machine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140054
+            },
+            "model": "anvilcraft:item/altar"
+        }
+    ]
+}

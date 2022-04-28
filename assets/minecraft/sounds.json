@@ -1,0 +1,9 @@
+{
+    "trader.coming":{
+        "replace": "false",
+        "subtitle": "sound.anvilcraft.trader.coming",
+        "sounds": [
+            "trader_coming"
+        ]
+    }
+}

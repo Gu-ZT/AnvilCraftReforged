@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_chicken"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 11140038
+      },
+      "model": "anvilcraft:item/creamy_bread_roll"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 11140053
+        },
+        "model": "anvilcraft:item/sweet_dumpling"
+    }
+  ]
+}

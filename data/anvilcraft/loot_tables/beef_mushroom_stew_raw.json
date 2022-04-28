@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:firework_star",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{CustomModelData:11140036,id:'anvilcraft:beef_mushroom_stew_raw',display:{Name:'{\"italic\":false,\"translate\":\"item.anvilcraft.beef_mushroom_stew_raw.name\"}'}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

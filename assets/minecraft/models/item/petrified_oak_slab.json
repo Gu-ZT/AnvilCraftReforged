@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "anvilcraft:block/bamboo_slab",
+    "top": "anvilcraft:block/bamboo_slab",
+    "side": "anvilcraft:block/bamboo_slab"
+  }
+}

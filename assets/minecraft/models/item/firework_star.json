@@ -1,0 +1,411 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_star",
+        "layer1": "item/firework_star_overlay"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 11140002
+            },
+            "model": "anvilcraft:item/empty_protocol"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140003
+            },
+            "model": "anvilcraft:item/absorb_protocol"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140004
+            },
+            "model": "anvilcraft:item/repair_protocol"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140005
+            },
+            "model": "anvilcraft:item/dispel_protocol_random"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140006
+            },
+            "model": "anvilcraft:item/dispel_protocol_first"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140007
+            },
+            "model": "anvilcraft:item/dispel_protocol_last"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140008
+            },
+            "model": "anvilcraft:item/dispel_protocol_curse"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140009
+            },
+            "model": "anvilcraft:item/dispel_protocol_punishment"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140010
+            },
+            "model": "anvilcraft:item/seed_of_the_sea"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140011
+            },
+            "model": "anvilcraft:item/fruit_of_the_sea"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140012
+            },
+            "model": "anvilcraft:item/kernel_of_the_sea"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140013
+            },
+            "model": "anvilcraft:item/tear_of_the_sea"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140014
+            },
+            "model": "anvilcraft:item/blade_of_the_sea"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140015
+            },
+            "model": "anvilcraft:item/elytra_frame"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140016
+            },
+            "model": "anvilcraft:item/elytra_membrane"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140017
+            },
+            "model": "anvilcraft:item/nether_star_shard"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140018
+            },
+            "model": "anvilcraft:item/debris_scrap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140019
+            },
+            "model": "anvilcraft:item/netherite_core"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140020
+            },
+            "model": "anvilcraft:item/netherite_coil"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140023
+            },
+            "model": "anvilcraft:item/placement_protocol"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140024
+            },
+            "model": "anvilcraft:item/protect_protocol"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140025
+            },
+            "model": "anvilcraft:item/restock_protocol"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140026
+            },
+            "model": "anvilcraft:item/magnet_ingot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140028
+            },
+            "model": "anvilcraft:item/cream"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140029
+            },
+            "model": "anvilcraft:item/grease"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140030
+            },
+            "model": "anvilcraft:item/flour"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140031
+            },
+            "model": "anvilcraft:item/dough"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140032
+            },
+            "model": "anvilcraft:item/flatdough"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140033
+            },
+            "model": "anvilcraft:item/dumpling_raw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140034
+            },
+            "model": "anvilcraft:item/shengjian_raw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140035
+            },
+            "model": "anvilcraft:item/meatballs_raw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140036
+            },
+            "model": "anvilcraft:item/beef_mushroom_stew_raw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140037
+            },
+            "model": "anvilcraft:item/meat_stuffing"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140044
+            },
+            "model": "anvilcraft:item/cocoa_butter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140045
+            },
+            "model": "anvilcraft:item/cocoa_powder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140046
+            },
+            "model": "anvilcraft:item/cocoa_liquor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140049
+            },
+            "model": "anvilcraft:item/utusan_raw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140051
+            },
+            "model": "anvilcraft:item/sponge_gemmule"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140052
+            },
+            "model": "anvilcraft:item/sweet_dumpling_raw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140059
+            },
+            "model": "anvilcraft:item/space_capsule_empty"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140060
+            },
+            "model": "anvilcraft:item/space_capsule"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140061
+            },
+            "model": "anvilcraft:item/seal_slate_fire"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140062
+            },
+            "model": "anvilcraft:item/seal_slate_poison"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140063
+            },
+            "model": "anvilcraft:item/seal_slate_shadow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140064
+            },
+            "model": "anvilcraft:item/seal_slate_soul"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140065
+            },
+            "model": "anvilcraft:item/seal_slate_water"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140066
+            },
+            "model": "anvilcraft:item/bark"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11140067
+            },
+            "model": "anvilcraft:item/pulp"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141000
+            },
+            "model": "anvilcraft:gui/empty"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141001
+            },
+            "model": "anvilcraft:gui/button_w"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141002
+            },
+            "model": "anvilcraft:gui/button_n"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141003
+            },
+            "model": "anvilcraft:gui/button_s"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141004
+            },
+            "model": "anvilcraft:gui/button_e"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141005
+            },
+            "model": "anvilcraft:gui/button_u"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141006
+            },
+            "model": "anvilcraft:gui/button_d"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141007
+            },
+            "model": "anvilcraft:gui/button_yes"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141008
+            },
+            "model": "anvilcraft:gui/button_no"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141009
+            },
+            "model": "anvilcraft:gui/warning_material"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141010
+            },
+            "model": "anvilcraft:gui/warning_none"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141011
+            },
+            "model": "anvilcraft:gui/warning_protocol"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141012
+            },
+            "model": "anvilcraft:gui/craft_back"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11141013
+            },
+            "model": "anvilcraft:gui/interact_back"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11142001
+            },
+            "model": "anvilcraft:block/magnet_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11142021
+            },
+            "model": "anvilcraft:block/craft_machine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11142022
+            },
+            "model": "anvilcraft:block/interact_machine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11142054
+            },
+            "model": "anvilcraft:block/altar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11142055
+            },
+            "model": "anvilcraft:block/altar_ready"
+        }
+    ]
+}

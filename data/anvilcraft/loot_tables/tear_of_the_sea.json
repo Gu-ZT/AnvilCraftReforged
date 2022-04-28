@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:firework_star",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{anvilcraftTearSuccess:0,CustomModelData:11140013,id:'anvilcraft:tear_of_the_sea',display:{Name:'{\"italic\":false,\"translate\":\"item.anvilcraft.tear_of_the_sea.name\"}'}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+	"pack": {
+		"pack_format": 9,
+		"description": [
+			{
+				"text": "铁砧工艺",
+				"color": "gold"
+			},
+			{
+				"text": " v1.0.0",
+				"color": "gold"
+			},
+			{
+				"text": "\nBy Gugle、sch246 & XeKr",
+				"color": "green"
+			}
+		]
+	}
+}

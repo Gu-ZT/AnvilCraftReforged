@@ -1,0 +1,6 @@
+{
+	"parent": "anvilcraft:gui/template",
+	"textures": {
+		"layer0": "anvilcraft:gui/craft_back"
+	}
+}
